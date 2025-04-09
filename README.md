@@ -4,7 +4,7 @@ This project was developed as part of my coursework in Machine Learning for Heal
 
 ## Project Description
 
-I created this project to explore how machine learning can be applied to healthcare data. The main goals were to:
+I created this project to explore how machine learning can be applied to healthcare data as a project for my course in university. The main goals were to:
 - Learn how to preprocess and analyze medical data from MIMIC-IV
 - Implement different machine learning models
 - Understand model interpretability using SHAP values
@@ -28,7 +28,7 @@ clinical-pathway-prediction/
 │   ├── raw/              # MIMIC-IV data files
 │   └── processed/        # Cleaned and processed data
 ├── notebooks/
-│   ├── 1_data_exploration.ipynb        # My data analysis notebook
+│   ├── 1_data_exploration.ipynb        # Data analysis notebook
 │   ├── 2_feature_engineering.ipynb     # Feature creation notebook
 │   └── 3_model_training.ipynb          # Model development notebook
 ├── src/
@@ -63,16 +63,16 @@ python src/model_training.py
 python src/visualization.py
 ```
 
-## What I Learned
+## Course Project Outcomes
 
-Through this project, I gained experience with:
+Through this course project, I gained hands-on experience with:
 - Working with MIMIC-IV healthcare data
 - Data preprocessing and feature engineering
 - Building and evaluating machine learning models
 - Using SHAP values to explain model predictions
 - Creating informative visualizations
 
-## Requirements
+## Technical Requirements
 
 The project uses:
 - Python 3.8+
